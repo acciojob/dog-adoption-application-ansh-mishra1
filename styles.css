@@ -1,2 +1,16 @@
 
 /* Your CSS Code here. */
+body{
+	height:100vh;
+}
+form{
+	width: 400px;
+	/* height:100vh; */
+	background-color: red;
+	color:white;
+	margin-inline:auto;
+	margin-block: auto;
+}
+input{
+	margin-bottom:1rem;
+}
